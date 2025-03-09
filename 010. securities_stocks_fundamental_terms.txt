@@ -1,1 +1,133 @@
 
+https://www.macrotrends.net/stocks/charts/AAPL/apple/number-of-employees
+
+Sector
+Industry
+Market Cap
+Revenue
+PE Ratio
+Country
+
+Stock Price
+Price History
+Average Stock Price
+Year Open Price
+Year High Price
+Year Low Price
+Year Close
+Annual % Change
+Historical Annual Stock Price
+52-week High Stock Price 
+52-week Low Stock Price 
+All-time High Stock Closing Price
+Stock Price MA200 
+Stock Price MA50
+
+Stock Split History
+
+Revenue
+Cost Of Goods Sold
+Gross Profit
+Research And Development Expenses
+SG&A Expenses
+Other Operating Income Or Expenses
+Operating Expenses
+Operating Income
+Total Non-Operating Income/Expense
+Pre-Tax Income
+Income Taxes
+Income After Taxes
+Other Income
+Income From Continuous Operations
+Income From Discontinued Operations
+Net Income
+EBITDA
+EBIT
+Basic Shares Outstanding
+Shares Outstanding
+Basic EPS
+EPS - Earnings Per Share
+
+Cash On Hand
+Receivables
+Inventory
+Pre-Paid Expenses
+Other Current Assets
+Total Current Assets
+Property, Plant, And Equipment
+Long-Term Investments
+Goodwill And Intangible Assets
+Other Long-Term Assets
+Total Long-Term Assets
+Total Assets
+Total Current Liabilities
+Long Term Debt
+Other Non-Current Liabilities
+Total Long Term Liabilities
+Total Liabilities
+Common Stock Net
+Retained Eamings (Accumulated Deficit)
+Comprehensive Income
+Other Share Holders Equity
+Share Holder Equity
+Total Liabilities And Share Holders Equity
+
+Net Income/Loss
+Total Depreciation And Amortization - Cash Flow
+Other Non-Cash Items
+Total Non-Cash Items
+Change In Accounts Receivable
+Change In Inventories
+Change In Accounts Payable
+Change In Assets/Liabilities
+Total Change In Assets/Liabilities
+Cash Flow From Operating Activities
+Net Change In Property, Plant, And Equipment
+Net Change In Intangible Assets
+Net Acquisitions/Divestitures
+Net Change In Short-term Investments
+Net Change In Long-Term Investments
+Net Change In Investments - Total
+Investing Activities - Other
+Cash Flow From Investing Activities
+Net Long-Term Debt
+Net Current Debt
+Debt Issuance/Retirement Net - Total
+Net Common Equity Issued/Repurchased
+Net Total Equity Issued/Repurchased
+Total Common And Preferred Stock Dividends Paid
+Financial Activities - Other
+Cash Flow From Financial Activities
+Net Cash Flow
+Stock-Based Compensation
+Common Stock Dividends Paid
+
+Current Ratio
+Long-term Debt / Capital
+Debt/Equity Ratio
+Gross Margin
+Operating Margin
+EBIT Margin
+EBITDA Margin
+Pre-Tax Profit Margin
+Net Profit Margin
+Asset Turnover
+Inventory Tumover Ratio
+Receiveable Turnover
+Days Sales In Receivables
+ROE - Return On Equity
+Return On Tangible Equity
+ROA - Return On Assets
+ROI - Return On Investment
+Book Value Per Share
+Operating Cash Flow Per Share
+Free Cash Flow Per Share
+
+Price to Sales Ratio
+Price to Book Ratio
+Price to Free Cash Flow Ratio
+Net Worth
+Quick Ratio
+Year Dividend History
+TTM Dividend Payout
+Number of Employees
