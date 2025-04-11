@@ -1,10 +1,9 @@
 ### **Suggest some securities, indicators, or websites to keep track of the 10-year U.S. Treasury bond yield.**
----
 
+---
 To effectively monitor the 10-year U.S. Treasury bond yield, consider the following resources and tools:
 
 ---
-
 ### 📈 **Websites for Real-Time and Historical Data**
 
 1. **FRED (Federal Reserve Economic Data)**  
@@ -28,7 +27,6 @@ To effectively monitor the 10-year U.S. Treasury bond yield, consider the follow
    🔗 [Bloomberg - U.S. Treasuries](https://www.bloomberg.com/markets/rates-bonds/government-bonds/us)
 
 ---
-
 ### 📊 **Key Indicators and Tools**
 
 - **Yield Curve Analysis*  
@@ -44,7 +42,6 @@ To effectively monitor the 10-year U.S. Treasury bond yield, consider the follow
   🔗 [Yahoo Finance - ^TNX](https://finance.yahoo.com/quote/%5ETNX/)
 
 ---
-
 ### 🛠️ **Trading and Investment Tools**
 
 - **Treasury TFs**  
@@ -55,6 +52,26 @@ To effectively monitor the 10-year U.S. Treasury bond yield, consider the follow
   🔗 [Russell Investments - Economic Indicators Dashboard](https://russellinvestments.com/us/resources/financial-professionals/economic-indicators-dashboard/tenyeartreasuryyild)
 
 ---
-
 By utilizing these resources and tools, you can stay informed about the 10-year U.S. Treasury bond yield and make more informed investment or tradin decisions. If you need assistance with setting up alerts or integrating these tools into your trading platform, feel free to ask! 
+
+---
+### **Citations**
+https://github.com/TheInternetTutor/investing
+https://finance.yahoo.com/personal-finance/mortgages/article/10-year-treasury-note-170612896.html
+https://econofact.org/the-10-year-treasury-rate-why-is-it-important-and-what-can-policy-do-about-it
+https://www.investopedia.com/articles/investing/100814/why-10-year-us-treasury-rates-matter.asp
+https://fred.stlouisfed.org/series/DGS10
+https://www.etf.com/sections/etf-basics/guide-10-year-treasury-yield
+https://www.marketwatch.com/investing/bond/tmubmusd10y?countrycode=bx
+https://russellinvestments.com/us/resources/financial-professionals/economic-indicators-dashboard/tenyeartreasuryyield
+https://tradingeconomics.com/united-states/government-bond-yield
+https://ycharts.com/indicators/10_year_treasury_rate
+https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?field_tdr_date_value=2025&type=daily_treasury_yield_curve
+https://www.newyorkfed.org/research/capital_markets/ycfaq
+https://finance.yahoo.com/quote/%5ETNX/
+https://treasurydirect.gov/marketable-securities/treasury-notes/
+https://www.investing.com/rates-bonds/u.s.-10-year-bond-yield
+https://www.investing.com/rates-bonds/u.s.-10-year-bond-yield-technical
+https://www.bloomberg.com/markets/rates-bonds/government-bonds/us
+https://www.bloomberg.com/markets/rates-bonds/government-bonds/us
 
