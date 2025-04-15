@@ -1,7 +1,7 @@
 ### Relation between QQQ and MNQ:
 ---
 Dividing the price of MNQ by the price of QQQ at any given minute the average of those ratios is always 
-approximately 41.52; this means that there is $41.52 of MNQ per each of $1 of QQQ. Conversely,
+approximately 41.52; this means that there is $41.52 of MNQ per each $1 of QQQ. Conversely,
 </br>
 *** $1 @ QQQ = $41.52 @ MNQ.***
 </br>
