@@ -1,4 +1,4 @@
-<code>
+<type>
 INPUT:
 
 The input data is related to random buys and/or sell records related to 
@@ -77,7 +77,7 @@ OUTPUT:
 
 Finally print all the records in the buffer using the original format
 in the input.
-</code>
+</type>
 
 Let's break down these instructions.
 
