@@ -1,3 +1,6 @@
+### Q&A: 26/09/16/06:10
+#### https://chatgpt.com/g/g-p-6a775fe2315c8191a839341710b7cae1/c/6a872548-0f28-83ea-9c10-3a722e300211
+---
 - What are the  5 leaders in cybersecurity?
 - Why do you keep of mentioning 10Y? How is that significant to my style of trading? How is it [un]favorable for me? Is it similar to the VIX?
 - What is a washout? How are they [un]favorable for me?
