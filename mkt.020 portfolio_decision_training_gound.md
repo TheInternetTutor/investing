@@ -1,8 +1,10 @@
-### Portfolio Decision Training Ground
+# Portfolio Decision Training Ground
 #### https://chatgpt.com/g/g-p-6a775fe2315c8191a839341710b7cae1/c/6a872548-0f28-83ea-9c10-3a722e300211
 ---
-### **User👨🏽‍💻🔊**: Very good. I believe that we should have one chat completely dedicated only to do technical analysis on my part, or at least that you can see my basic technical analysis to combine it with your fundamental analysis, so you actually challenge me with the fundamentals. 
+# **User👨🏽‍💻🔊**:
+Very good. I believe that we should have one chat completely dedicated only to do technical analysis on my part, or at least that you can see my basic technical analysis to combine it with your fundamental analysis, so you actually challenge me with the fundamentals. 
 ---
+# **AI 🤖**:
 Yes. I think that would make the whole portfolio project **substantially better**.
 
 The clean division I would use is:
@@ -84,12 +86,12 @@ That last category is particularly important for you because it prevents a tempo
 And eventually, this can feed directly into the **IGNORE → WATCH → HOLD → TRIM → CUT → ADD** framework we're building. The technical chat supplies one input; the fundamental analysis supplies another; **the portfolio engine makes the position-level decision using size, age, P&L, opportunity cost, and attention cost as well.**
 
 I think that architecture is considerably cleaner than trying to do everything in one conversation.
----
 
 
 
-### **User👨🏽‍💻🔊**: It is not going to be two chats. It will be in which we discuss that text-based report containing pipe-separated tables. So what I would like from you is a prompt that will emphasize trying to eliminate the losing positions and reduce the overall number of positions in my portfolio, and again with an emphasis on those that have been in the portfolio for too long and are losing no more than a hundred dollars. But obviously, the loss could be proportional to the allocation. So based on what we have been doing here, you can go ahead and ask me more questions before you create the prompt that I will take to the new chat. And the main purpose of that chat will be for the two of us to discuss current positions and for us to bounce ideas: why I should close it, trim it, add to it, or make it into a core position, and so on, so on. But again, with an emphasis on trying to get rid of those that have been losing position for too long. The other main idea is with that discussion that we hopefully will keep focus, and then we will create a directive that I can give to any AI to help me analyze my positions, my lots, and be able to basically recommend an action, and that eventually will become an algorithm for the eventual automatization of the whole process. So the chat would be about you learning how I trade and how I take decisions, let me know why it's a good or a bad decision. The emphasis would be on the contrarian point. If we agree on something, you do not have to elaborate that much, or if you agree with my entry, either to abandon a position completely, or trim it, or enter it. If you agree with it, you do not have to elaborate on affirmation. It would be mainly the contrarian part. Once that is done, we also are going to review those interactions to come up with a language of our own, or a jargon that eventually would become some sort of automatic decision report, right? And at the beginning we'll emphasize cutting the losers that have been lingering around in the portfolio for too long.
----
+# **User👨🏽‍💻🔊**:
+It is not going to be two chats. It will be in which we discuss that text-based report containing pipe-separated tables. So what I would like from you is a prompt that will emphasize trying to eliminate the losing positions and reduce the overall number of positions in my portfolio, and again with an emphasis on those that have been in the portfolio for too long and are losing no more than a hundred dollars. But obviously, the loss could be proportional to the allocation. So based on what we have been doing here, you can go ahead and ask me more questions before you create the prompt that I will take to the new chat. And the main purpose of that chat will be for the two of us to discuss current positions and for us to bounce ideas: why I should close it, trim it, add to it, or make it into a core position, and so on, so on. But again, with an emphasis on trying to get rid of those that have been losing position for too long. The other main idea is with that discussion that we hopefully will keep focus, and then we will create a directive that I can give to any AI to help me analyze my positions, my lots, and be able to basically recommend an action, and that eventually will become an algorithm for the eventual automatization of the whole process. So the chat would be about you learning how I trade and how I take decisions, let me know why it's a good or a bad decision. The emphasis would be on the contrarian point. If we agree on something, you do not have to elaborate that much, or if you agree with my entry, either to abandon a position completely, or trim it, or enter it. If you agree with it, you do not have to elaborate on affirmation. It would be mainly the contrarian part. Once that is done, we also are going to review those interactions to come up with a language of our own, or a jargon that eventually would become some sort of automatic decision report, right? And at the beginning we'll emphasize cutting the losers that have been lingering around in the portfolio for too long.
+# **AI 🤖**:
 Yes — and I think the important distinction is that this new chat is **not primarily an analysis chat**. It is a **decision-training laboratory** that happens to use your pipe-separated portfolio report as its raw material.
 
 Before I write the prompt, I want to lock down the rules that will eventually become the algorithm. I have enough context to avoid asking you about things we've already established, so I would focus on the few ambiguities that matter most.
@@ -292,11 +294,12 @@ to:
 That feels very aligned with what we're trying to accomplish.
 
 Once you answer those points, I can write the actual **master prompt** for the new chat — including the pipe-separated report interpretation, technical + fundamental challenge process, loser-prioritization logic, position-reduction objective, interaction protocol, terminology-building process, and the eventual path toward converting our accumulated decisions into an algorithm.
----
 
 
 
-### **User👨🏽‍💻🔊**: Yes, we also need to add some statements about improving the report itself, if more columns or metrics should be added/removed or not.
+
+# **User👨🏽‍💻🔊**:
+Yes, we also need to add some statements about improving the report itself, if more columns or metrics should be added/removed or not.
 ---
 In order to answer the first question, what exactly counts as too long? I am glad that you did ask it because as you were speaking about it, I thought of a matrix, and the matrix, the first thing, and probably the first parameter in it, is going to be if it's losing. So if it's losing, that is the first trigger to zoom in or inspect it. The other thing is, and I am not saying that the order is exactly rigid, or this should be the order of each one of the parameters. The second one that I can think of is the capitalization of the symbol. A losing mega cap is not as bad as a losing speculative entry or symbol. Then, the other thing is, even if it's positive, for how long has it been positive, and if it's producing enough money as time passes by? Because that might be what could be considered for make it into a core position. So if I have a positive lot for a long time, probably it's because it's a lot. It's a core position and not a tactical one. Also, we did talk about allocation, and if it's, for example, $1,000 that is losing $100, that could be considered for either trimming or cutting it, based obviously on time. So we will need to come up with a matrix, putting all of these things together, and it obviously is not a two-dimensional matrix. So we might have the most important two metrics against each other in one of them, and based on a third parameter, and then the same matrix based on other metrics or parameters. Now, I know that I did not completely answer that question, but we need to drill down into it until we find some sort of arrangement or concrete answer to question one before you create the prompt. So we will continue to add resolution to that question.
 ---
@@ -315,7 +318,7 @@ Yes. When it comes down to item number seven, about separating four things, I th
 Regarding your item number eight philosophical question, I agree with you too. And the reason is this: if I have a losing position that has been consolidating for a long time, but I am still harvesting small gains or substantial gains, that means that probably I have kept it because I can continue to buy at the support and sell at the resistance until I break even with the losses. And I generally try to see if that is possible for a period of around, I would say, three to four weeks, maybe a month, to see how it behaves. That is assuming that I did not cut the position on time. So we are talking here that the losing position probably is more than a hundred dollars, or is 50% of the original investment. So sometimes I keep them to see if they consolidate, and I can exploit buying and selling from the support to the resistance, and the opposite for shorting a stock, but that almost never happens.
 ---
 Make sure you include a clause for the AI to still ask questions if a specific procedure is not completely clear or still have ambiguities. We can clarify them as we continue to iterate through the directive that the AI has received.
----
+# **AI 🤖**:
 Yes. This is becoming much more interesting, because we're no longer designing a simple “loser scanner.” We're designing a **decision-learning framework** that can eventually become an algorithm.
 
 And I agree with your instinct: **we should not write the master prompt yet.** We need to resolve the matrix and the definitions first.
@@ -709,9 +712,12 @@ But I don't want to assume that ordering is correct.
 
 That hierarchy will become the **spine of the eventual directive and, later, the algorithm**.
 
----
-### **User👨🏽‍💻🔊**: I am now elaborating on each of your previous items, but I have some questions first before I respond, and this is one of them. When traders or hedge fund managers refer to small positions or medium positions or large positions, what is what that means? Is that a standard in trading, or is that relative to the trader? Please answer fairly briefly. Do not elaborate too much.
----
+
+
+
+# **User👨🏽‍💻🔊**:
+I am now elaborating on each of your previous items, but I have some questions first before I respond, and this is one of them. When traders or hedge fund managers refer to small positions or medium positions or large positions, what is what that means? Is that a standard in trading, or is that relative to the trader? Please answer fairly briefly. Do not elaborate too much.
+# **AI 🤖**:
 No. **“Small,” “medium,” and “large” positions are not standardized dollar amounts in trading.** They are generally **relative to the trader, portfolio, or fund**.
 
 For example:
@@ -723,9 +729,13 @@ For example:
 Professional managers often use measures such as **% of portfolio**, **% of risk**, or **% of liquidity/average daily volume**. “Small/medium/large” is usually an internal classification rather than an industry-wide standard.
 
 So for our system, I think **your own dollar bands are perfectly legitimate**, but we should explicitly define them based on *your portfolio and trading behavior*, rather than pretending they are universal trading standards.
----
-### **User👨🏽‍💻🔊**: Very well. Since these are relative measurements, we should establish them now. So you already have information about my current portfolio, or the total. If I liquidate my portfolio, we did agree at some point previously that it would be about a quarter million dollars. But that would include the losses of about $80,000, right? So we're talking here that if a miracle happens and all of my stock go to break even, all of them, and my profitable positions stay where they are, but the losing positions go to break even, then will have ~$330000. So, two questions. What is NAV, and how do we define the positions, small, medium, or large, based on my portfolio? What do you consider, or what do you suggest we would define them as in terms of percentages?
----
+
+
+
+
+# **User👨🏽‍💻🔊**:
+Very well. Since these are relative measurements, we should establish them now. So you already have information about my current portfolio, or the total. If I liquidate my portfolio, we did agree at some point previously that it would be about a quarter million dollars. But that would include the losses of about $80,000, right? So we're talking here that if a miracle happens and all of my stock go to break even, all of them, and my profitable positions stay where they are, but the losing positions go to break even, then will have ~$330000. So, two questions. What is NAV, and how do we define the positions, small, medium, or large, based on my portfolio? What do you consider, or what do you suggest we would define them as in terms of percentages?
+# **AI 🤖**:
 Yes — and there is an important accounting distinction here.
 
 ### NAV
@@ -787,9 +797,12 @@ It should say something closer to:
 
 And this is exactly why your **Loss × Age × Allocation** concept is becoming the foundation of the decision matrix.
 
----
-### **User👨🏽‍💻🔊**: This is the thing. I do not look at losses in terms of portfolio. I look at losses and think of them at the moment of buying a new lot. So I do not go as low as losses per share. I go by losses per lot. And we know that every lot can contain any number of shares. So to me, the way I think about this is, for example, I just bought a thousand dollars worth of certain stock. That would be a lot. I do not care that much about the number of shares in it until the moment in which I realize I'm realizing that lot, meaning either losing or gaining, because I might trim it, or I might sell more than that lot, and so on. So I think in terms of lots. Therefore, I think we should define the losses in terms of the allocation of the lot, not relative to the portfolio.
----
+
+
+
+# **User👨🏽‍💻🔊**:
+This is the thing. I do not look at losses in terms of portfolio. I look at losses and think of them at the moment of buying a new lot. So I do not go as low as losses per share. I go by losses per lot. And we know that every lot can contain any number of shares. So to me, the way I think about this is, for example, I just bought a thousand dollars worth of certain stock. That would be a lot. I do not care that much about the number of shares in it until the moment in which I realize I'm realizing that lot, meaning either losing or gaining, because I might trim it, or I might sell more than that lot, and so on. So I think in terms of lots. Therefore, I think we should define the losses in terms of the allocation of the lot, not relative to the portfolio.
+# **AI 🤖**:
 Exactly. That clarification changes the architecture in an important way.
 
 **Your fundamental unit of risk is the lot, not the share and not the portfolio.** The portfolio is the context; the lot is the decision unit.
@@ -850,8 +863,11 @@ And I think we've just resolved an important piece of the eventual algorithm:
 
 That is much more faithful to your actual decision process.
 
----
-### **User👨🏽‍💻🔊**:Please remind me to go back to your list of eleven items in case I derail us.
+
+
+
+# **User👨🏽‍💻🔊**:
+Please remind me to go back to your list of eleven items in case I derail us.
 
 ---
 
@@ -1243,7 +1259,7 @@ SNDK  |    9| -2184.615|3m4d    | 2033.100|2026-06-16
 SMCI  |  100| -6839.000|2y5m3w5d|  107.510|2024-03-26
 SMCI  |  150|-12433.000|2y6m2w  |  122.007|2024-03-08
 ```
----
+# **AI 🤖**:
 Yes. **This is exactly the kind of concrete example I wanted to see before we write the directive.** It tells me much more clearly how you're thinking about the problem.
 
 And I will keep your earlier **11-item list as an anchor**. If our discussion starts drifting too far into implementation before we resolve those items, I'll bring us back to it. 👍
@@ -1447,9 +1463,12 @@ And I think that's probably the next thing we should resolve before writing the 
 
 The report you've just shown us is actually doing something very valuable: **it's helping us discover what the report itself needs to contain.** That's exactly the report-improvement feedback loop you wanted.
 
----
-### **User👨🏽‍💻🔊**: What do you think the differences between inventory C6 and C7 are?
----
+
+
+
+# **User👨🏽‍💻🔊**:
+What do you think the differences between inventory C6 and C7 are?
+# **AI 🤖**:
 The main difference is **loss magnitude relative to the same general “large-loss” territory** — but looking at your actual grouping, I think there is also a conceptual distinction worth making.
 
 ### C6 — “large losses”
@@ -1506,14 +1525,16 @@ The interesting question for our framework is whether that is actually the right
 
 That is precisely where your matrix idea becomes more powerful than these inventory buckets.
 
----
-### **User👨🏽‍💻🔊**:
+
+
+
+# **User👨🏽‍💻🔊**:
 ```
 ==> large looses :. Consider age/triming/adding/closing := {Inventory C.6}
 ==> large looses :. Consider age/triming/closing/adding := {Inventory C.7}
 ```
 Try again.
----
+# **AI 🤖**:
 Ah — yes. You're pointing me to the **ordering of the actions**, not the loss bands. I missed that.
 
 The difference is subtle but important:
@@ -1554,9 +1575,13 @@ toward:
 And that is very much aligned with the contrarian philosophy we've been building.
 
 I think **this is an important clue about how your matrix should eventually work**: the cells shouldn't merely classify *severity*. They can encode a **change in decision bias/order of investigation** as the loss, age, and allocation become more concerning.
----
-### **User👨🏽‍💻🔊**: Correct. But they also might contain my weakness and plenty of the factors that have led me to the place where I am and that I need to work on. So it is not that those things are correct. They might be actually the cause why I have that inventory, C8, that should not exist. Do you understand now? So that is not something to follow or emulate. That is something pointing right at one of my weaknesses.
----
+
+
+
+
+# **User👨🏽‍💻🔊**:
+Correct. But they also might contain my weakness and plenty of the factors that have led me to the place where I am and that I need to work on. So it is not that those things are correct. They might be actually the cause why I have that inventory, C8, that should not exist. Do you understand now? So that is not something to follow or emulate. That is something pointing right at one of my weaknesses.
+# **AI 🤖**:
 Yes. **Now I understand the distinction clearly.**
 
 The C6/C7/C8 progression is **not a recommendation hierarchy**. It is an **artifact of your current behavior**, and therefore potentially a diagnostic of the behavior we're trying to improve.
@@ -1627,11 +1652,15 @@ We're not trying to automate **Emilio exactly as he trades today**.
 We're trying to extract the **good parts of how Emilio trades**, identify the weaknesses, and build a system that challenges or prevents those weaknesses.
 
 And yes — I will treat the ordering in your existing C6/C7/C8 classifications as **evidence about your current decision process**, not as instructions that the future AI should emulate.
----
-### **User👨🏽‍💻🔊**: Correct. And that means that those two C8 lots, at some point, probably, were part of another Inventory. That is almost certain. And the implications are that I probably allocated too fast and got blinded, or was not cautious enough because I though the company was not a speculative company. So I probably assumed that it was a good company, and the example of SMCI is very revealing, because it's not entirely my blame. If you check the history for the past two to three years of that company, you'll see that to some degree, I could be forgiven for my mistakes, to some degree. But still, it does not excuse the fact that I did not get out of it on time. And even worse, that when I did have the opportunity to break even, I did not, even though I collected between $9,000 to $12,000 from that specific stock. The important thing is that now we have more or less different buckets into which we can move the different stocks, and that I have learned not to allocate too much to begin with on any specific symbol or stock. And what I should do is to start small, see in which of those inventories the stock moves around, and then proceed to either demote or promote the stock. Again, this specific first implementation is not the final directive. It's just a way for us to discover how I have been thinking and what needs to be corrected and what could be improved before we write the directive and proceed to the training ground on the next chat. 
+
+
+
+
+# **User👨🏽‍💻🔊**:
+Correct. And that means that those two C8 lots, at some point, probably, were part of another Inventory. That is almost certain. And the implications are that I probably allocated too fast and got blinded, or was not cautious enough because I though the company was not a speculative company. So I probably assumed that it was a good company, and the example of SMCI is very revealing, because it's not entirely my blame. If you check the history for the past two to three years of that company, you'll see that to some degree, I could be forgiven for my mistakes, to some degree. But still, it does not excuse the fact that I did not get out of it on time. And even worse, that when I did have the opportunity to break even, I did not, even though I collected between $9,000 to $12,000 from that specific stock. The important thing is that now we have more or less different buckets into which we can move the different stocks, and that I have learned not to allocate too much to begin with on any specific symbol or stock. And what I should do is to start small, see in which of those inventories the stock moves around, and then proceed to either demote or promote the stock. Again, this specific first implementation is not the final directive. It's just a way for us to discover how I have been thinking and what needs to be corrected and what could be improved before we write the directive and proceed to the training ground on the next chat. 
 ---
 Please check list. and let me know if any of them have been answered completely or partially, or if there is any other questions that remain from that list of 11 items.
----
+# **AI 🤖**:
 Yes. I went back through the **11 questions/items** we were using, and your latest discussion has answered quite a lot of them—some fully, some substantially, and a few only conceptually.
 
 ## Status of the 11 items
@@ -1740,8 +1769,11 @@ The biggest unresolved pieces now are:
 8. **Which additional report fields are necessary to support all of this**
 
 And I think **#7 may be the next particularly important one**, because that's where the system moves from *diagnosing your current portfolio* toward *preventing the same mistakes in the future*.
----
-### **User👨🏽‍💻🔊**: 
+
+
+
+
+# **User👨🏽‍💻🔊**:
 ```
 # 1. I think the fundamental unit should be the *position*, not the lot
 # 2. Your matrix idea is exactly the right direction
@@ -1756,7 +1788,7 @@ And I think **#7 may be the next particularly important one**, because that's wh
 # 11. One more question I want to resolve before writing anything
 ```
 Those are the eleven items. Please review them. They are fairly recent. Let me know if you really can't remember what you were asking or exposing. I can paste for you to remember if you need to.
----
+# **AI 🤖**:
 Yes — I **do remember these 11 items and what I was exposing/asking with each one**. You don't need to paste them again.
 
 And you're right to correct me: my previous response accidentally substituted a different list of 11 questions for the actual list you were referring to.
@@ -1826,9 +1858,13 @@ The biggest unresolved conceptual question from this original list is still **#1
 But before we tackle that, I think we should finish squeezing information out of the Inventory A/B/C experiment. There are probably more clues in it about **#1, #2, #3, #4, #7, #8, and #9** than we have extracted so far.
 
 So, yes: **I remember the list and its original purpose. No need to paste it.**
----
-### **User👨🏽‍💻🔊**: Is your previous tables on the status of the of the list of 11 items correct? Does it still hold, or do you need to review anything in order to know if I have answered your list of 11 items or not? Do you need to rewrite that table?
----
+
+
+
+
+# **User👨🏽‍💻🔊**:
+Is your previous tables on the status of the of the list of 11 items correct? Does it still hold, or do you need to review anything in order to know if I have answered your list of 11 items or not? Do you need to rewrite that table?
+# **AI 🤖**:
 Yes — **I would revise the previous status table.** The underlying 11 items are the correct ones, but after your latest discussion, several statuses have changed. In particular, I was too conservative about what you've already answered.
 
 Here is the corrected version:
@@ -1863,11 +1899,17 @@ And **none of the 11 needs to be discarded**.
 The biggest thing I would *not* do yet is start inventing numerical thresholds for the partially answered items. Your Inventory A/B/C experiment is giving us empirical evidence about how *you* actually behave, and we should extract that before imposing arbitrary rules.
 
 Also, your latest SMCI insight adds an important layer to **#2 and #11**: the system shouldn't merely classify the current inventory; it should eventually recognize **migration toward a bad state** and intervene earlier. That is something we hadn't fully captured in the original list.
+
+
+
+
+# **User👨🏽‍💻🔊**:
+Very well, yes, that is correct. But you see, I do not want to continue with the conversation in this chat. What I would like to do is to create the prompt to continue with the refinement of how I have been thinking about all of this, so we can continue on that other chat, because you see, this chat was about something else, and I just want to get the prompt to migrate to a chat appropriate for it and just concentrate on it. So if you believe that there is something else that you would like me to answer about those partially answered items: 1, 7, 8, 9, and 11, please ask the questions. I will do my best so you can create the prompt appropriate for it. Also the prompt does not have to be created in one go. It could be a multi-answer prompt. In other words, you can do it in different parts, so you yourself, in the next chat, can have a dense, well-understood notion of what just happened here. Is this understood?
+
 ---
-### **User👨🏽‍💻🔊**: Very well, yes, that is correct. But you see, I do not want to continue with the conversation in this chat. What I would like to do is to create the prompt to continue with the refinement of how I have been thinking about all of this, so we can continue on that other chat, because you see, this chat was about something else, and I just want to get the prompt to migrate to a chat appropriate for it and just concentrate on it. So if you believe that there is something else that you would like me to answer about those partially answered items: 1, 7, 8, 9, and 11, please ask the questions. I will do my best so you can create the prompt appropriate for it. Also the prompt does not have to be created in one go. It could be a multi-answer prompt. In other words, you can do it in different parts, so you yourself, in the next chat, can have a dense, well-understood notion of what just happened here. Is this understood?
----
+
 The other thing that we can do is to create the prompt and also include the questions at the end that still need to be resolved. I can always paste the last report that provided answer to many of the questions in the list of 11 items. But the most important part is that I would like to migrate from this chat to the chat for the training ground, as we kind of agreed. So a fairly elaborate prompt with open questions to yourself or any other AI would be also appropriate. Hopefully, but I'm not certain.
----
+# **AI 🤖**:
 Yes. I understand exactly what you want.
 
 The objective now is **not to continue refining the trading framework in this chat**. This chat has served its purpose. We want to create a **migration prompt** that you can paste into the new “training ground” chat so that the new chat starts with a dense understanding of:
@@ -2158,8 +2200,10 @@ And yes: **you can paste the latest report after the migration prompt.** The pro
 
 
 
-### **User👨🏽‍💻🔊**: Excellent. And now I have to be cruel with you, and also with myself. I am not going to answer any of the questions in your previous answer. But instead, what I am going to do is to take the original list of 11 items, the report, and your last answer containing all of those questions, and I will put them together in such a way that in the next chat, hopefully, you will be able to stitch everything together to understand what did happen and where you should continue. Would you say that would be a good decision and that I am not being cruel by not answering?
----
+
+# **User👨🏽‍💻🔊**:
+Excellent. And now I have to be cruel with you, and also with myself. I am not going to answer any of the questions in your previous answer. But instead, what I am going to do is to take the original list of 11 items, the report, and your last answer containing all of those questions, and I will put them together in such a way that in the next chat, hopefully, you will be able to stitch everything together to understand what did happen and where you should continue. Would you say that would be a good decision and that I am not being cruel by not answering?
+# **AI 🤖**:
 Yes. **I think that is the better decision.** And no, I wouldn't call it cruel. 😄
 
 In fact, I think you're doing something intellectually useful: **you're deliberately refusing to resolve the questions prematurely.**
@@ -2254,25 +2298,31 @@ And if something in that new chat is misunderstood, **that itself becomes useful
 
 
 
-### **User👨🏽‍💻🔊**: 
----
+
+# **User👨🏽‍💻🔊**:
+
+# **AI 🤖**:
 
 
 
-### **User👨🏽‍💻🔊**: 
----
+
+# **User👨🏽‍💻🔊**:
+
+# **AI 🤖**:
 
 
 
-### **User👨🏽‍💻🔊**: 
----
+
+# **User👨🏽‍💻🔊**:
+
+# **AI 🤖**:
 
 
 
-### **User👨🏽‍💻🔊**: 
----
+
+# **User👨🏽‍💻🔊**:
+
+# **AI 🤖**:
 
 
 
-### **User👨🏽‍💻🔊**: 
----
