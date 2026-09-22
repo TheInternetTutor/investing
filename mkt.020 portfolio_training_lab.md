@@ -1,4 +1,4 @@
-# Portfolio Decision Training Ground
+# Portfolio Training Lab
 #### https://chatgpt.com/g/g-p-6a775fe2315c8191a839341710b7cae1/c/6a872548-0f28-83ea-9c10-3a722e300211
 ---
 # **User👨🏽‍💻🔊**:
